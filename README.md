@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/protidin/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Protidin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/protidin/) |
+| **Get License** | [Music Rights & Licensing for Protidin](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/protidin/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5cb98fc7df5bc652f944fa5f73de8ddbb7bf5691401184d40e5cb7a8bd56b70f` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

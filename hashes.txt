@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Protidin
+
+This log tracks the cryptographic history and versioning for the song **Protidin** (protidin).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T07:10:31.368454 | `v1` | `5cb98fc7df5bc652f944fa5f73de8ddbb7bf5691401184d40e5cb7a8bd56b70f` | `7e747066e693fb88581b2f35c4d92b448343cd48d889ca089c4e6e59147367d4` | `2026-05-10_protidin-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
